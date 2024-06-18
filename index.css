@@ -138,7 +138,7 @@ body {
     width: 100%;
     font-family: Arimo;
     margin: 2rem auto;
-    width: 80%;
+    width: 60%;
     min-height: 75vh;
     padding: 3rem 0;
 }
@@ -412,6 +412,10 @@ footer i {
 
     .nav-logo {
         font-size: 28px;
+    }
+
+    .content {
+        width: 80%;
     }
     
 }
