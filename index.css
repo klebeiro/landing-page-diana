@@ -238,7 +238,7 @@ body {
 }
 
 .box .sub-content h2 {
-    color: black;
+    color: var(--green);
 }
 
 .online p {
